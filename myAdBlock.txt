@@ -7,3 +7,4 @@
 !
 /funcript*.php?pub=*&v=
 ||cdn.*/static/js/amvn.js
+||cfs*.uzone.id
