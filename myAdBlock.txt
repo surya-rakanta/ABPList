@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
-! Title: AdBlock Plus Filters
+! Title: My Custom AdBlock Plus Filters
 ! Last modified:
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
 /funcript*.php?pub=*&v=
+||cdn.*/static/js/amvn.js
